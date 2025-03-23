@@ -1,0 +1,4 @@
+# Ignore all files
+*
+# Except index.py
+!index.py
